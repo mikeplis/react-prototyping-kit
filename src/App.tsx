@@ -1,6 +1,5 @@
 import React from "react";
-import { Button, Image, Input, Link, Select, Stack, Text, useForm } from "./components";
-import { Form } from "./components/Form";
+import { Button, Form, Image, Input, Link, Select, Stack, Text, useForm } from "./components";
 
 type FormData = {
     someInput: string;
